@@ -12,9 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D., 2019-2024, National and Kapodistrian University of Athens, Modern and Contemporary History.
-Topic: The Northern Epirus Question (1914 - 1974). Guerrilla warfare, politics, and memory.
-Grade: Excellent.
-Committee: Spyridon Ploumidis (chair), Evanthis Hatzivasiliou, Nikolaos Anastasopoulos.
+  - Topic: The Northern Epirus Question (1914 - 1974). Guerrilla warfare, politics, and memory.
+  - Grade: Excellent.
 *	MA, 2017-2019, University of Ioannina, Modern and Contemporary History.
 Thesis: “The battle of Crete (1941). Maleme and its defenders from New Zealand”.
 Grade: 10/10 (excellent).
