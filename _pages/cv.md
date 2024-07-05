@@ -11,9 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., 2019-2024, National and Kapodistrian University of Athens, Modern and Contemporary History.
+Topic: The Northern Epirus Question (1914 - 1974). Guerrilla warfare, politics, and memory.
+Grade: Excellent.
+Committee: Spyridon Ploumidis (chair), Evanthis Hatzivasiliou, Nikolaos Anastasopoulos.
+*	MA, 2017-2019, University of Ioannina, Modern and Contemporary History.
+Thesis: “The battle of Crete (1941). Maleme and its defenders from New Zealand”.
+Grade: 10/10 (excellent).
+*	BA, 2023-present, Panteion University, Political Science and History. 
+*	BA, 2019-2023, University of Ioannina, Philosophy.
+Grade: 8.52/10 (excellent).
+*	BA, 2013-2017, University of Ioannina, History.
+Internship: War Museum of Athens (1/7-31/8/2016).
+Grade: 8.76/10 (excellent).
+
 
 Work experience
 ======
