@@ -17,5 +17,7 @@ On this website, you can find more about what I'm up to, explore my latest publi
 News
 ======
 **June 2024:** My article "From the League of Prizren to the "Greater Albania." When History Influences Contemporary Foreign Policy" was published on International Strategy's website.
+
 **June 2024:** I was selected as a member of the _Journal of Military Studies_ editorial board.
+
 **May 2024:** I successfully defended my Ph.D. thesis.
