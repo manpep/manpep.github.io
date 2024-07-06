@@ -1,5 +1,5 @@
 ---
-title:  "Daskalogiannis' revolt (1770-1771)"
+title:  Daskalogiannis' revolt (1770-1771)
 date: 2024-07-4
 permalink: /posts/2024/07/blog-post-2/
 tags:
