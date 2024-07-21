@@ -1,13 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "Winston Churchill and the Battle of Crete (1941)"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'The defending of Crete by the Commonwealth troops was one of the most crucial moments of World War II. On this island, in 1941, Australians, New Zealanders, Greeks, and British soldiers faced the elite Hitler's paratroopers. The result of the conflict determined by Churchill's decisions, as well as the tactical mistakes of the commander of the 2nd New Zealand Division, General Bernard Freyberg. This paper aims to illuminate unknown aspects of the British Prime Minister's actions and present his experiences during the battle.'
+date: 2021-05-02
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+You can download it here: https://www.ejsss.net.in/uploads/172/9709_pdf.pdf 
