@@ -19,7 +19,7 @@ Education
   - Grade: 10/10 (excellent).
 *	BA, 2023-present, Panteion University, Political Science and History. 
 *	BA, 2019-2023, University of Ioannina, Philosophy.
-Grade: 8.52/10 (excellent).
+  - Grade: 8.52/10 (excellent).
 *	BA, 2013-2017, University of Ioannina, History.
   - Internship: War Museum of Athens (1/7-31/8/2016).
   - Grade: 8.76/10 (excellent).
@@ -36,7 +36,7 @@ Work experience
   * 2023-present: University of the People.
     - Position: Adjunct instructor. 
     - Courses: Art History, Greek and Roman Civilization, Online Education Strategies.
-  * 2023-present: Strategy International.
+  * 2023-2024: Strategy International.
     - Position: Junior scholar, History and International Affairs.
     - Responsibilities: Writing policy analyses (800-1200 words) about the Balkans.
   * 2018: University of Ioannina, Department of History and Archaeology.
@@ -47,7 +47,7 @@ Work experience
   * 2015-2016: Ancient History Magazine, Karwansaray Publishers.
     - Position: Freelance writer.
     - Responsibilities: Writing articles (approximately 3.000 words) and book reviews. 
-  * 2014-present: Στρατιωτική Ιστορία [Stratiotiki Istoria], Gnomon and Govostis Publishing.
+  * 2014-present: _Στρατιωτική Ιστορία_ [Stratiotiki Istoria], Gnomon and Govostis Publishing.
     - Position: Consultant-freelance writer.
     - Responsibilities: Writing articles (approximately 6.000 words), news, and book reviews. 
 
