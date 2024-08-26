@@ -11,7 +11,7 @@ I hold a BA in History, a BA in Philosophy, an MA in Modern and Contemporary His
 In my free time, I practice kickboxing and calisthenics (or watch hilarious videos with dogs on YouTube). 
 I state that I write "sine ira et studio," but no one believes me.  
 
-On this website, you can find more about what I'm up to, explore my latest publications, and delve into topics that interest me. Occasionally, I'll share my thoughts or anything intriguing that captures my attention. Stay tuned for regular updates and engaging content! 
+On this website, you can find more about what I'm up to, explore my latest publications, and delve into topics that interest me. Occasionally, I'll share my thoughts or anything intriguing that captures my attention.  
 
 
 News
