@@ -19,7 +19,7 @@ Education
   - Grade: 10/10 (excellent).
 *	BA, 2023-present, Panteion University, Political Science and History. 
 *	BA, 2019-2023, University of Ioannina, Philosophy.
-- Grade: 8.52/10 (excellent).
+  - Grade: 8.52/10 (excellent).
 *	BA, 2013-2017, University of Ioannina, History.
   - Internship: War Museum of Athens (1/7-31/8/2016).
   - Grade: 8.76/10 (excellent).
