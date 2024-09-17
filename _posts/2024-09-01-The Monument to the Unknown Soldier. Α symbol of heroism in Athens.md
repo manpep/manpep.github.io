@@ -1,6 +1,6 @@
 ---
 title: The Monument to the Unknown Soldier. Α symbol of heroism in Athens
-date: 2024-1-9
+date: 2024-9-1
 permalink: /posts/2024/07/blog-post-4/
 tags:
   - history
