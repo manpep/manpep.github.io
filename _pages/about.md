@@ -16,6 +16,8 @@ On this website, you can find more about what I'm up to, explore my latest publi
 
 News
 ======
+**September 2024:**	I was elected as an Associate Fellow of the Royal Historical Society.
+
 **June 2024:**	I presented the paper “The Northern Epirus Question and the creation of the anti-Western myth”, in _History Days_, a conference organized by the National and Kapodistrian University of Athens.
 
 **June 2024:** My article “A paradoxical otherness in revolutionary Crete: the case of Sfakia”, was published in Charalampos Minaoglou (ed.), _The Greek Revolution in Piraeus and Island Greece_ (Irodotos, Athens 2024).
