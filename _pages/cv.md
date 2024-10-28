@@ -33,12 +33,11 @@ Scholarships
 Work experience
 ======
 * _Academic appointments_
+  * 2024-present: NATO Defence College.
+    - Position: Junior Associate Fellow. 
   * 2023-present: University of the People.
     - Position: Adjunct instructor. 
     - Courses: Art History, Greek and Roman Civilization, Online Education Strategies.
-  * 2023-2024: Strategy International.
-    - Position: Junior scholar, History and International Affairs.
-    - Responsibilities: Writing policy analyses (800-1200 words) about the Balkans.
   * 2018: University of Ioannina, Department of History and Archaeology.
     - Position: Department assistant.
     - Responsibilities: Supporting the work of the faculty members during the lectures and the examinations.
