@@ -56,7 +56,7 @@ Work experience
     - Responsibilities: Archival research and writing about the history of the Greek Army Corps.
   * 2022: Istorima.
     - Position: Oral history researcher.
-    - Responsibilities: Collect oral testimonies from the Attica region.
+    - Responsibilities: Collecting oral testimonies from the Attica region.
   * 2018: “Anatolia Imprints”, Brown University, National Science Foundation, University of Ioannina, London Business School, Wheeler Institute for Business and Development, Hellenic Bank Association.
     - Position: Assistant researcher. 
     - Responsibilities: Checking and cleaning data about the continuation of settlement existence of Greece in censuses published by the Hellenic Statistical Authority (ELSTAT) between 1920 and 1961.
@@ -128,7 +128,7 @@ Publications
 
 **Memberships**
 ======
-*	Postgraduate member of the Royal Historical Society.
+*	Associate Fellow of the Royal Historical Society.
 *	Member of the Hermes Institute of International Affairs, Security & Geoeconomy.
 *	Member of the Chinese Military History Society.
 
