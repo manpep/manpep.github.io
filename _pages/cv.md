@@ -156,4 +156,4 @@ Publications
   *	Digital journalism (certified by Google, 2020).
   *	WordPress (certified by the START Project, 1/7/2020).
   *	Languages: Greek (native), English (excellent), Italian (good).
-  *	Hobbies: Kickboxing (green belt, current member of the Ioannidis Team), karate (green belt), chess.
+  *	Hobbies: Kickboxing (green belt), karate (green belt), chess.
