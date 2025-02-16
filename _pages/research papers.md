@@ -4,7 +4,7 @@ title: "Research papers"
 permalink: /papers/
 author_profile: true
 redirect_from:
-  - /papers
+  - /research papers
 ---
 
 {% include base_path %}
