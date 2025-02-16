@@ -128,6 +128,7 @@ Publications
 
 **Memberships**
 ======
+*	Member of the Nippon Foundation Scholars Association.
 *	Associate Fellow of the Royal Historical Society.
 *	Member of the Hermes Institute of International Affairs, Security & Geoeconomy.
 *	Member of the Chinese Military History Society.
