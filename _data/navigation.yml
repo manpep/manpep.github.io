@@ -6,10 +6,10 @@ main:
   - title: "Blog"
     url: /year-archive/
 
- - title: "Research papers"
+  - title: "Research papers"
      url: /papers/
 
-  # - title: "Talks"
+  - title: "Talks"
     # url: /talks/    
 
   # - title: "Teaching"
