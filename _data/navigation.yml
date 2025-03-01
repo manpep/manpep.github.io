@@ -7,7 +7,7 @@ main:
     url: /year-archive/
 
   - title: "Research papers"
-     url: /papers/
+     url: /papers/ 
 
   #  title: "Talks"
     # url: /talks/    
