@@ -1,6 +1,6 @@
 ---
 title: 'An upcoming lecture and some personal updates'
-date: 2025-2-1
+date: 2025-02-01
 permalink: /posts/2025/2/blog-post-6/
 tags:
   - history
