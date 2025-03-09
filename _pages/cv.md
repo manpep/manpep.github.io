@@ -64,7 +64,11 @@ Work experience
 Publications
 ======
 * **Books**
-  - (With Nikos Giannopoulos, and Giorgos Tsiakalos), _4th Corps_, Hellenic Army General Staff, Athens 2023 [in Greek].
+  - _25 years of Metro Athens_, STASY, Athens 2025.
+  - (With Nikos Giannopoulos, Dimitrios Kitsos, Nikos Balatso, Kostas Papadimitriou, Claire Tsakiri, and Giorgos Tsiakalos), _2nd Corps_, Hellenic Army General Staff, Athens 2024 [in Greek].
+- (With Elena Sokratous), _DYPA. Past, Present, and Future_, GK Media Publishing, Athens 2023 [in Greek].  
+- (With Theodoros Dimopoulos, Francesco Priccolom and Ioannis Varsamis), _Operation Primavera (March 1941)_, Govostis, Athens 2023 [in Greek]. 
+  - (With Nikos Giannopoulos, and Giorgos Tsiakalos), _4th Corps_, Hellenic Army General Staff, Athens 2023 [in Greek].  
   - (With Dimitrios Kitsos, and Giorgos Tsiakalos), _3rd Corps_, Hellenic Army General Staff, Athens 2022 [in Greek].
   - _The Second Balkan War. Rare photos from the Greek Press_, Kindle edition, 2020.
   - _Digenis and the Junta_, storia95, Athens 2020 [in Greek].
