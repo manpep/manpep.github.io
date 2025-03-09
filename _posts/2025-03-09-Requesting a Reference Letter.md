@@ -3,7 +3,7 @@ title: 'Requesting a Reference Letter'
 date: 2025-03-09
 permalink: /posts/2025/3/blog-post-6/
 tags:
-  - personal
+  - academic
 ---
 
 Every semester, I receive multiple requests for reference letters. If you're considering reaching out to me for one, please take a moment to read this.
