@@ -6,7 +6,7 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-  -  title: "Talks"
+  -  title: "Talks and Publications"
      url: /talks/    
 
   # - title: "Teaching"
