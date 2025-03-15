@@ -78,6 +78,7 @@ Publications
   - _Heroes and Philoctetes_, Apopseis, Athens 2016 [in Greek].
 
 * **Articles in academic journals**
+  - “Manolis Bandouvas and the Interplay of Tradition, Resistance, and Allied Strategy in Crete During World War II,” _Military History Chronicles_, March 2025, vol. 2 (2), pp. 1 - 22.
   - "Eleftherios Venizelos and the Evolution of Greek Military and Naval Aviation, 1909-1918”, _From Balloons to Drones_, 12-11-2023.
   - “The Greco-Albanian Relations During the Period 1974-1996: From Irredentism to Political Realism”, _HAPSc Policy Briefs Series_, vol. 4 (1), pp. 64 – 69.
   - “The echo of the Northern Epirus Struggle in Cyprus (1914)”, _Yearbook of the Cyprus Society for Historical Studies_, vol. 15, Nicosia 2022, pp. 295 – 308 [in Greek].
