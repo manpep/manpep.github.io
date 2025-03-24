@@ -43,10 +43,10 @@ Work experience
     - Responsibilities: Supporting the work of the faculty members during the lectures and the examinations.
 
 * _Publishing_ 
-  * 2015-2016: Ancient History Magazine, Karwansaray Publishers.
+  * 2015-2016: _Ancient History Magazine_, Karwansaray Publishers.
     - Position: Freelance writer.
     - Responsibilities: Writing articles (approximately 3.000 words) and book reviews. 
-  * 2014-present: _Στρατιωτική Ιστορία_ [Stratiotiki Istoria], Gnomon and Govostis Publishing.
+  * 2014-present: _Stratiotiki Istoria_ [Milirary History], Gnomon and Govostis Publishing.
     - Position: Consultant-freelance writer.
     - Responsibilities: Writing articles (approximately 6.000 words), news, and book reviews. 
 
@@ -78,9 +78,9 @@ Publications
   - _Heroes and Philoctetes_, Apopseis, Athens 2016 [in Greek].
 
 * **Articles in academic journals**
-  - “Manolis Bandouvas and the Interplay of Tradition, Resistance, and Allied Strategy in Crete During World War II,” _Military History Chronicles_, March 2025, vol. 2 (2), pp. 1 - 22.
+  - “Manolis Bandouvas and the Interplay of Tradition, Resistance, and Allied Strategy in Crete During World War II,” _Military History Chronicles_, vol. 2 (2), March 2025, pp. 1 - 22.
   - "Eleftherios Venizelos and the Evolution of Greek Military and Naval Aviation, 1909-1918”, _From Balloons to Drones_, 12-11-2023.
-  - “The Greco-Albanian Relations During the Period 1974-1996: From Irredentism to Political Realism”, _HAPSc Policy Briefs Series_, vol. 4 (1), pp. 64 – 69.
+  - “The Greco-Albanian Relations During the Period 1974-1996: From Irredentism to Political Realism”, _HAPSc Policy Briefs Series_, vol. 4 (1), 2023, pp. 64 – 69.
   - “The echo of the Northern Epirus Struggle in Cyprus (1914)”, _Yearbook of the Cyprus Society for Historical Studies_, vol. 15, Nicosia 2022, pp. 295 – 308 [in Greek].
   - “The bombardment of Kütahya (June 1921)”, _Aeroporiki Epitheorisi_, vol. 125, August 2022, pp. 66 - 81 [in Greek]. 
   - ““Cyprus – An old problem”: a CIA’s significant analysis about the Cyprus dispute”, _Yearbook of the Cyprus Society for Historical Studies_, vol. 14, Nicosia 2021, pp. 487 – 494 [in Greek].
