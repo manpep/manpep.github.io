@@ -13,7 +13,9 @@ First and foremost, I consider it an honor to support my students and colleagues
 However, please do not request a reference letter from me if:
 
 1) You have engaged in discriminatory behavior in my classroom. I cannot support individuals who express sexism, racism, homophobia, or any form of discrimination.
+
 2) You have been flagged for academic dishonesty, including the misuse of AI to cheat.
+
 3) My knowledge of your work is not relevant to the position or program you are applying for. A strong reference should come from someone who can meaningfully speak to your qualifications.
 
 If none of these apply to you and you believe I can provide a strong, relevant endorsement, feel free to reach out. I’d be happy to help.
