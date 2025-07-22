@@ -36,7 +36,7 @@ Work experience
   * 2024-present: NATO Defence College.
     - Position: Junior Associate Fellow. 
   * 2023-present: University of the People.
-    - Position: Adjunct instructor. 
+    - Position: Adjunct instructor (volunteer). 
     - Courses: Art History, Greek and Roman Civilization, Online Education Strategies.
   * 2018: University of Ioannina, Department of History and Archaeology.
     - Position: Department assistant.
