@@ -20,6 +20,8 @@ On this website, you can find more about what I'm up to, explore my latest publi
 
 News
 ======
+**July 2025:** My article “The Greek-Albanian Relations During the Interwar Period (1918 – 1939)”, was published in _Open Journal for Studies in History_.
+
 **March 2025:** My article “Manolis Bandouvas and the Interplay of Tradition, Resistance, and Allied Strategy in Crete During World War II”, was published in _Military History Chronicles_.
 
 **February 2025:**	I was accepted as a member at the Nippon Foundation Scholars Association.
@@ -27,5 +29,3 @@ News
 **October 2024:**	I was selected as a Junior Associate Fellow at the NATO Defence College.
 
 **September 2024:**	I was elected as an Associate Fellow of the Royal Historical Society.
-
-**June 2024:**	I presented the paper “The Northern Epirus Question and the creation of the anti-Western myth”, in _History Days_, a conference organized by the National and Kapodistrian University of Athens.
