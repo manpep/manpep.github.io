@@ -20,6 +20,8 @@ On this website, you can find more about what I'm up to, explore my latest publi
 
 News
 ======
+**September 2025:**	I was selected as a Visiting Research Fellow at the University of the Peloponnese (Department of Political Science and International Relations).
+
 **July 2025:** My article “The Greek-Albanian Relations During the Interwar Period (1918 – 1939)”, was published in _Open Journal for Studies in History_.
 
 **March 2025:** My article “Manolis Bandouvas and the Interplay of Tradition, Resistance, and Allied Strategy in Crete During World War II”, was published in _Military History Chronicles_.
@@ -27,5 +29,3 @@ News
 **February 2025:**	I was accepted as a member at the Nippon Foundation Scholars Association.
 
 **October 2024:**	I was selected as a Junior Associate Fellow at the NATO Defence College.
-
-**September 2024:**	I was elected as an Associate Fellow of the Royal Historical Society.
