@@ -77,6 +77,7 @@ Publications
   - _Heroes and Philoctetes_, Apopseis, Athens 2016 [in Greek].
 
 * **Articles in academic journals**
+  - Nikolaos Plastiras’ Governments and the Greek-American Relations (1950-1952)”, _Athens Journal of History_, October 2025, vol. 11 (4), pp. 281-296.
   - “The Greek-Albanian Relations During the Interwar Period (1918 – 1939)”, _Open Journal for Studies in History_, 2025, vol. 8 (1), pp. 11-20.
   - “Manolis Bandouvas and the Interplay of Tradition, Resistance, and Allied Strategy in Crete During World War II,” _Military History Chronicles_, vol. 2 (2), March 2025, pp. 1 - 22.
   - "Eleftherios Venizelos and the Evolution of Greek Military and Naval Aviation, 1909-1918”, _From Balloons to Drones_, 12-11-2023.
