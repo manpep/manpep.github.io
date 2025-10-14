@@ -33,6 +33,8 @@ Scholarships
 Work experience
 ======
 * _Academic appointments_
+  * 2025-present: Panteion University.
+    - Position: Adjunct Lecturer. 
   * 2025-present: University of the Peloponnese.
     - Position: Visiting Research Fellow. 
   * 2024-present: NATO Defence College.
