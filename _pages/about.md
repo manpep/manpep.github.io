@@ -20,6 +20,8 @@ On this website, you can find more about what I'm up to, explore my latest publi
 
 News
 ======
+**November 2025:** I presented my paper “EOKA’s activities and the Northern Epirus Question (1955-1959)”, at the International Conference _70 years after the EOKA Struggle_.
+
 **October 2025:** I was appointed as an Adjunct Lecturer at the Panteion University.
 
 **October 2025:** My article "Nikolaos Plastiras’ Governments and the Greek-American Relations (1950-1952)”, was published in _Athens Journal of History_.
