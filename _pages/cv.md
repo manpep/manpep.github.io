@@ -34,11 +34,13 @@ Work experience
 ======
 * _Academic appointments_
   * 2025-present: Panteion University.
-    - Position: Adjunct Lecturer. 
+    - Position: Adjunct Lecturer.
+    -	Courses: History of the Greek-Albanian relations during the decade of 1940; Post-war Balkan History (1945-1989). 
   * 2025-present: University of the Peloponnese.
     - Position: Visiting Research Fellow. 
+    - Research topic: “The role of organizations of expatriate people of Northern Epirus in shaping Greek foreign policy (1945-1997)”.
   * 2024-present: NATO Defence College.
-    - Position: Junior Associate Fellow. 
+    - Position: Junior Associate Fellow (NextGen Futures). 
   * 2018: University of Ioannina, Department of History and Archaeology.
     - Position: Department Assistant.
     - Responsibilities: Supporting the work of the faculty members during the lectures and the examinations.
@@ -139,7 +141,6 @@ Publications
 ======
 *	Member of the Nippon Foundation Scholars Association.
 *	Associate Fellow of the Royal Historical Society.
-*	Member of the Hermes Institute of International Affairs, Security & Geoeconomy.
 *	Member of the Chinese Military History Society.
 
   
