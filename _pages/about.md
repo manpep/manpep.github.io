@@ -20,6 +20,8 @@ On this website, you can find more about what I'm up to, explore my latest publi
 
 News
 ======
+**January 2025:** I was appointed as a Visiting Professor at the Council of International Educational Exchange (CIEE).
+
 **November 2025:** I presented my paper “EOKA’s activities and the Northern Epirus Question (1955-1959)”, at the International Conference _70 years after the EOKA Struggle_.
 
 **October 2025:** I was appointed as an Adjunct Lecturer at the Panteion University.
@@ -29,9 +31,3 @@ News
 **September 2025:**	I was selected as a Visiting Research Fellow at the University of the Peloponnese (Department of Political Science and International Relations).
 
 **July 2025:** My article “The Greek-Albanian Relations During the Interwar Period (1918 – 1939)”, was published in _Open Journal for Studies in History_.
-
-**March 2025:** My article “Manolis Bandouvas and the Interplay of Tradition, Resistance, and Allied Strategy in Crete During World War II”, was published in _Military History Chronicles_.
-
-**February 2025:**	I was accepted as a member at the Nippon Foundation Scholars Association.
-
-**October 2024:**	I was selected as a Junior Associate Fellow at the NATO Defence College.
