@@ -33,7 +33,10 @@ Scholarships
 Work experience
 ======
 * _Academic appointments_
-  * 2025-present: Panteion University.
+  * 2026: Council on International Educational Exchange.
+    - Position: Visiting Professor.
+    -	Courses: Greece-Past and Present. 
+ * 2025-2026: Panteion University.
     - Position: Adjunct Lecturer.
     -	Courses: History of the Greek-Albanian relations during the decade of 1940; Post-war Balkan History (1945-1989). 
   * 2025-present: University of the Peloponnese.
@@ -46,7 +49,7 @@ Work experience
     - Responsibilities: Supporting the work of the faculty members during the lectures and the examinations.
 
 * _Publishing_ 
-  * 2015-2016: _Ancient History Magazine_, Karwansaray Publishers.
+  * 2015-2016, 2026-present: _Ancient History Magazine_, Karwansaray Publishers.
     - Position: Freelance writer.
     - Responsibilities: Writing articles (approximately 3.000 words) and book reviews. 
   * 2014-present: _Stratiotiki Istoria_ [Milirary History], Gnomon and Govostis Publishing.
