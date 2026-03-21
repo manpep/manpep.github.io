@@ -11,7 +11,7 @@ I hold a BA in History, a BA in Philosophy, an MA in Modern and Contemporary His
 
 Additionally, I have worked as a freelance author, researcher, and editor for remarkable institutions and companies for over a decade. Apart from my scholarly activities, several of my articles are addressed to the public and published in magazines, sites, and newspapers. I am also the author of 12 books - none of them is a best-seller. 
 
-In my free time, I practice kickboxing and calisthenics (or watch hilarious videos with dogs on YouTube). 
+In my free time, I practice calisthenics and play chess (or watch hilarious videos with dogs on YouTube). 
 
 I state that I write "sine ira et studio," but no one believes me.  
 
@@ -20,6 +20,8 @@ On this website, you can find more about what I'm up to, explore my latest publi
 
 News
 ======
+**January 2025:** My article "The Northern Epirus Question: A Persistent Challenge in Greek–Albanian Relations”, was published in _E-International Relations_.
+
 **January 2025:** I was appointed as a Visiting Professor at the Council of International Educational Exchange (CIEE).
 
 **November 2025:** I presented my paper “EOKA’s activities and the Northern Epirus Question (1955-1959)”, at the International Conference _70 years after the EOKA Struggle_.
@@ -29,5 +31,3 @@ News
 **October 2025:** My article "Nikolaos Plastiras’ Governments and the Greek-American Relations (1950-1952)”, was published in _Athens Journal of History_.
 
 **September 2025:**	I was selected as a Visiting Research Fellow at the University of the Peloponnese (Department of Political Science and International Relations).
-
-**July 2025:** My article “The Greek-Albanian Relations During the Interwar Period (1918 – 1939)”, was published in _Open Journal for Studies in History_.
