@@ -3,7 +3,7 @@ title: 'My Opinion on Louis Theroux’s "Inside the Manosphere"'
 date: 2026-03-21
 permalink: /posts/2026/3/blog-post-2/
 tags:
-  - history
+  - feminism
 ---
 
 I have to admit it. I never fully understood how people become influenced by online personalities. This isn’t meant in an elitist sense; rather, I’ve simply never felt the appeal of random internet figures who present simplistic interpretations of how the world works. What can an unsuccessful boxer truly teach about human relationships? What insight can a 20-year-old unemployed high school dropout lacking education/skills/meaningful experience offer? Most importantly, why do people feel compelled to follow them?
