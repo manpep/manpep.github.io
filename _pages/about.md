@@ -20,6 +20,8 @@ On this website, you can find more about what I'm up to, explore my latest publi
 
 News
 ======
+**April 2025:** I participated in the Second NATO Next Gen Fellowship Workshop.
+
 **January 2025:** My article "The Northern Epirus Question: A Persistent Challenge in Greek–Albanian Relations”, was published in _E-International Relations_.
 
 **January 2025:** I was appointed as a Visiting Professor at the Council of International Educational Exchange (CIEE).
@@ -29,5 +31,3 @@ News
 **October 2025:** I was appointed as an Adjunct Lecturer at the Panteion University.
 
 **October 2025:** My article "Nikolaos Plastiras’ Governments and the Greek-American Relations (1950-1952)”, was published in _Athens Journal of History_.
-
-**September 2025:**	I was selected as a Visiting Research Fellow at the University of the Peloponnese (Department of Political Science and International Relations).

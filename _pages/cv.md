@@ -35,7 +35,7 @@ Work experience
 * _Academic appointments_
   * 2026: Council on International Educational Exchange.
     - Position: Visiting Professor.
-    -	Courses: Greece-Past and Present. 
+    -	Courses: Greece-Past and Present; Mediterranean Myths and Mythology. 
  * 2025-2026: Panteion University.
     - Position: Adjunct Lecturer.
     -	Courses: History of the Greek-Albanian relations during the decade of 1940; Post-war Balkan History (1945-1989). 
@@ -44,6 +44,7 @@ Work experience
     - Research topic: “The role of organizations of expatriate people of Northern Epirus in shaping Greek foreign policy (1945-1997)”.
   * 2024-present: NATO Defence College.
     - Position: Junior Associate Fellow (NextGen Futures). 
+    - Responsibilities: Strategic foresight; Horizon scanning; Strategic concept development.
   * 2018: University of Ioannina, Department of History and Archaeology.
     - Position: Department Assistant.
     - Responsibilities: Supporting the work of the faculty members during the lectures and the examinations.
