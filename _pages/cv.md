@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
 - Ph.D., 2019-2024, National and Kapodistrian University of Athens, Modern and Contemporary History.
   - Topic: The Northern Epirus Question (1914 - 1974). Guerrilla warfare, politics, and memory.
@@ -24,13 +24,13 @@ Education
   - Internship: War Museum of Athens (1/7-31/8/2016).
   - Grade: 8.76/10 (excellent).
 
-Scholarships
+**Scholarships**
 ======
 * 2021-2022: Ryoichi Sasakawa Young Leaders Fellowship Fund (SYLFF).
 *	2022: CIVIS scholarship for participation in the Summer School “Going Public”, organized by the University of Tübingen. 
 *	2016-2017: Scholarship from the Greek State Scholarships Foundation.
 
-Work experience
+**Work experience**
 ======
 _Academic appointments_
   * 2026: Council on International Educational Exchange.
@@ -68,7 +68,7 @@ _Research_
     - Position: Assistant researcher. 
     - Responsibilities: Checking and cleaning data about the continuation of settlement existence of Greece in censuses published by the Hellenic Statistical Authority (ELSTAT) between 1920 and 1961.
   
-Publications
+**Publications**
 ======
 * **Books**
   - _25 years of Metro Athens_, STASY, Athens 2025.
