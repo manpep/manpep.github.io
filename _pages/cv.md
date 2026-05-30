@@ -32,7 +32,7 @@ Scholarships
 
 Work experience
 ======
-* _Academic appointments_
+_Academic appointments_
   * 2026: Council on International Educational Exchange.
     - Position: Visiting Professor.
     -	Courses: Greece-Past and Present; Mediterranean Myths and Mythology. 
@@ -49,7 +49,7 @@ Work experience
     - Position: Department Assistant.
     - Responsibilities: Supporting the work of the faculty members during the lectures and the examinations.
 
-* _Publishing_ 
+_Publishing_ 
   * 2015-2016, 2026-present: _Ancient History Magazine_, Karwansaray Publishers.
     - Position: Freelance writer.
     - Responsibilities: Writing articles (approximately 3.000 words) and book reviews. 
@@ -57,7 +57,7 @@ Work experience
     - Position: Consultant-freelance writer.
     - Responsibilities: Writing articles (approximately 6.000 words), news, and book reviews. 
 
-* _Research_
+_Research_
   * 2022-2024: “History of the Greek Army Corps”, Hellenic Army General Staff and Alexandros Publications. 
     - Position: Researcher-author.
     - Responsibilities: Archival research and writing about the history of the Greek Army Corps.
