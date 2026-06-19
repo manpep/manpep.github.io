@@ -20,14 +20,14 @@ On this website, you can find more about what I'm up to, explore my latest publi
 
 News
 ======
-**April 2025:** I participated in the Second NATO Next Gen Fellowship Workshop.
+**June 2026:** My article "Anti-American and Anti-British Sentiment in Greece (1955-1959)" was published in _Open Journal for Studies in History_.
 
-**January 2025:** My article "The Northern Epirus Question: A Persistent Challenge in Greek–Albanian Relations”, was published in _E-International Relations_.
+**June 2026:** My article "I Nea Stratiotiki Istoria ke i Epidraseis tis stin Elliniki Istoriografia" [The New Military History and its Impact to the Greek Historiography] was published in the _Stratiotiki Istoria_ magazine.
 
-**January 2025:** I was appointed as a Visiting Professor at the Council of International Educational Exchange (CIEE).
+**April 2026:** I participated in the Second NATO Next Gen Fellowship Workshop.
+
+**January 2026:** My article "The Northern Epirus Question: A Persistent Challenge in Greek–Albanian Relations”, was published in _E-International Relations_.
+
+**January 2026:** I was appointed as a Visiting Professor at the Council of International Educational Exchange (CIEE).
 
 **November 2025:** I presented my paper “EOKA’s activities and the Northern Epirus Question (1955-1959)”, at the International Conference _70 years after the EOKA Struggle_.
-
-**October 2025:** I was appointed as an Adjunct Lecturer at the Panteion University.
-
-**October 2025:** My article "Nikolaos Plastiras’ Governments and the Greek-American Relations (1950-1952)”, was published in _Athens Journal of History_.
