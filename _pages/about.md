@@ -29,5 +29,3 @@ News
 **January 2026:** My article "The Northern Epirus Question: A Persistent Challenge in Greek–Albanian Relations”, was published in _E-International Relations_.
 
 **January 2026:** I was appointed as a Visiting Professor at the Council of International Educational Exchange (CIEE).
-
-**November 2025:** I presented my paper “EOKA’s activities and the Northern Epirus Question (1955-1959)”, at the International Conference _70 years after the EOKA Struggle_.
