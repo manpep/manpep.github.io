@@ -1,7 +1,7 @@
 ---
 title: 'Attention! The Athens Radio Station will not be Greek after a while'
 date: 2024-07-6
-permalink: /posts/2024/07/blog-post-1/
+permalink: /posts/2024/07/blog-post-11/
 tags:
   - history
 ---

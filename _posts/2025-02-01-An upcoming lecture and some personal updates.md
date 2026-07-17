@@ -1,7 +1,7 @@
 ---
 title: 'An upcoming lecture and some personal updates'
 date: 2025-02-01
-permalink: /posts/2024/2/blog-post-6/
+permalink: /posts/2024/2/blog-post-7/
 tags:
   - history
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Explaining the Decline of the Human Sciences'
 date: 2025-6-23
-permalink: /posts/2025/10/blog-post-6/
+permalink: /posts/2025/10/blog-post-14/
 tags:
   - opinion
 ---

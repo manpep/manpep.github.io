@@ -1,7 +1,7 @@
 ---
 title: 'Edward Hallett Carr'
 date: 2024-12-9
-permalink: /posts/2024/12/blog-post-5/
+permalink: /posts/2024/12/blog-post-12/
 tags:
   - history
 ---

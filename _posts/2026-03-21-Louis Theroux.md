@@ -1,7 +1,7 @@
 ---
 title: 'My Opinion on Louis Theroux’s "Inside the Manosphere"'
 date: 2026-03-21
-permalink: /posts/2026/3/blog-post-2/
+permalink: /posts/2026/3/blog-post-4/
 tags:
   - feminism
 ---

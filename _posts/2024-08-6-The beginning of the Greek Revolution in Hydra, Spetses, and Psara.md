@@ -1,7 +1,7 @@
 ---
 title: The beginning of the Greek Revolution in Hydra, Spetses, and Psara
 date: 2024-08-6
-permalink: /posts/2024/08/blog-post-3/
+permalink: /posts/2024/08/blog-post-9/
 tags:
   - history
 ---

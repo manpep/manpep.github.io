@@ -1,7 +1,7 @@
 ---
 title: '30 years of Stratiotiki Istoria magazine'
 date: 2026-06-12
-permalink: /posts/2026/3/blog-post-2/
+permalink: /posts/2026/3/blog-post-1/
 tags:
   - Opinion
 ---
