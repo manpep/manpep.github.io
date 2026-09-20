@@ -33,7 +33,7 @@ redirect_from:
 **Work experience**
 ======
 _Academic appointments_
-  * 2026: Council on International Educational Exchange.
+  * 2026-present: Council on International Educational Exchange.
     - Position: Visiting Professor.
     -	Courses: Greece-Past and Present; Mediterranean Myths and Mythology. 
  * 2025-2026: Panteion University.
@@ -111,6 +111,7 @@ _Research_
   - “The education policy of the 4th of August Regime, from 28th October 1940 to the death of Ioannis Metaxas”, Athanasios Karafyllis, Ioannis Tataridis (ed.), _Education, Crisis and Wars_, Tziola, Thessaloniki 2020, pp. 109-116 [in Greek].
 
 * **Presentations at conferences without proceedings and invited lectures**
+  - “Education, Minority Rights, and State Policy: Greek Minority Schools in Albania and the “School Issue” of 1933–1935”, _1st International Scientific Conference “From the History of Education: Education and Pedagogy Between the Two World Wars_, Osijek, 11/9/2026.
   - “EOKA’s activities and the Northern Epirus Question (1955-1959)”, _70 years after the EOKA Struggle_, Nicosia, 2/11/2025 [in Greek].
   - “The Northern Epirus Question and the creation of the anti-Western myth”, _History Days_, Athens, 19/6/2024 [in Greek].
   - “The anti-dictatorship group of the Paneperotic Federation of America”, _Meeting of young scholars For the dictatorship and the anti-dictatorship struggle in Greece and abroad_, Athens, 9/6/2023 [in Greek].

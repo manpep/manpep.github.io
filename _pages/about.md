@@ -20,12 +20,10 @@ On this website, you can find more about what I'm up to, explore my latest publi
 
 News
 ======
+**September 2026:** I was awarded the Kapodistrias Residential Fellowship for the 2026-2027 academic year.
+
+**September 2026:** I presented my paper “Education, Minority Rights, and State Policy: Greek Minority Schools in Albania and the “School Issue” of 1933–1935”, at the _1st International Scientific Conference “From the History of Education: Education and Pedagogy Between the Two World Wars_.
+
 **June 2026:** My article "Anti-American and Anti-British Sentiment in Greece (1955-1959)" was published in _Open Journal for Studies in History_.
 
 **June 2026:** My article "I Nea Stratiotiki Istoria ke i Epidraseis tis stin Elliniki Istoriografia" [The New Military History and its Impact to the Greek Historiography] was published in the _Stratiotiki Istoria_ magazine.
-
-**April 2026:** I participated in the Second NATO Next Gen Fellowship Workshop.
-
-**January 2026:** My article "The Northern Epirus Question: A Persistent Challenge in Greek–Albanian Relations”, was published in _E-International Relations_.
-
-**January 2026:** I was appointed as a Visiting Professor at the Council of International Educational Exchange (CIEE).
